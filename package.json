@@ -1,0 +1,16 @@
+{
+  "name": "whirlibulf-engine",
+  "description": "Javascript game engine with entity-component-system design",
+  "version": "0.0.1",
+  "keywords": [
+    "whirlibulf",
+    "game engine",
+    "html5"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
